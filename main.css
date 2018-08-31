@@ -1,0 +1,44 @@
+body{
+  background-color: #7f8c8d;
+}
+
+.barredenavigation{
+  height: 100px;
+  width: 100%;
+  color: #2f3640;
+  font-family: broadway;
+  font-size: 50px;
+  background-color: white;
+}
+
+.titresite{
+  height: 500px;
+  width: 100%;
+  color: #ff4757;
+  font-family: broadway;
+
+  background-image: url("http://img.freepik.com/photos-libre/fleurs-blanches-avec-flou-fond_1160-415.jpg?size=338&amp;ext=jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+ul{
+  display: flex;
+  justify-content: space-around;
+}
+
+li{
+  display: inline;
+  text-decoration: underline;
+}
+
+h1{
+  font-size: 100px;
+  text-align: center;
+}
+
+p{
+  font-size: 50px;
+  font-family: arial;
+  text-align: center;
+}
